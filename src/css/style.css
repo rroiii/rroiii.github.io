@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.blog-item {
+    margin: 10px 0;
+}
+
+#pagination {
+    margin: 20px 0;
+}
+
+#pagination button {
+    margin: 0 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+}
