@@ -1,6 +1,5 @@
 import os
 import markdown
-import yaml
 from jinja2 import Environment, FileSystemLoader
 import json
 
